@@ -1,5 +1,5 @@
-# House-Sales-in-King-County-Project
-This is a Housing Data analysis for King County in the form of 10 questions which include how to develop models using linear regression,Ridge Regression polynomial transformation and Data Wrangling.
+# House-Sales-in-King-County-Project:
+This is a Housing Data analysis for King County in the form of 10 questions which include how to develop models using linear regression, Ridge Regression polynomial transformation and Data Wrangling.
 
 This also shows how pipelines can be used in python.
 
